@@ -1,0 +1,4 @@
+https://github.com/Shaff
+- name: Android Emulator Runner Without SDK Setup
+  uses: RandyLutcavich/android-emulator-runner-without-sdk-setup@v1.0.3
+er1978/Shaffer1978.git
